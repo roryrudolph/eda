@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATSAMD51G18A-M
+D SAM D51 Microchip SMART ARM Cortex-M4F-based MCU, 256K Flash, 128K SRAM, VQFN-48
+K 32-bit ARM Cortex-M4F MCU Microcontroller
+$ENDCMP
+#
+$CMP fpc-45pin-0.5mm
+D FPC connector, 45 pin, 0.5mm pitch. See Hirose FH34SRJ-45S-0.5SH(50)
+$ENDCMP
+#
+#End Doc Library
